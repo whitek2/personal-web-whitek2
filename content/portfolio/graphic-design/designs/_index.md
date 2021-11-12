@@ -1,9 +1,9 @@
 ---
-title: GRAPHIC DESIGN
+title: DESIGNS
 description: Things I've designed
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2019-2021
-work: [graphic design, Adobe Creative Suite]
+work: [Adobe Creative Suite]
 techs: [javascript, D3]
 designs: [Photoshop]
 thumbnail: thtr-projects/images/leopard1.2.jpg
@@ -15,7 +15,4 @@ testimonial:
   text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
 ---
 
-This would be a description of your sample project. I'm trying very hard.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+This would be a description of the page, which is of things I've designed, hopefully.
