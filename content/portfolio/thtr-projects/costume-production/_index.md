@@ -6,7 +6,7 @@ jobDate: 2019-2021
 work: [costume production, cutting, stitching, draping, drafting]
 techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: costume-production/leopard1.jpg
+thumbnail: thtr-projects/leopard1.2.jpg
 projectUrl: https://www.sampleorganization.org
 testimonial:
   name: John Doe
