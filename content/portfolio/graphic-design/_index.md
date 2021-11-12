@@ -11,4 +11,4 @@ projectUrl: https://www.sampleorganization.org
 
 ---
 
-Click any image below to see more information about the project
+Here are images that I have created using programs from the Adobe Creative Suite, including Photoshop, Illustrator, and InDesign :computer: :computer_mouse:
