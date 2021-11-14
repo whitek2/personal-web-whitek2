@@ -6,16 +6,9 @@ jobDate: 2019-2021
 work: [costume production, cutting, stitching, draping, drafting]
 techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: thtr-projects/images/zipper1.jpg
+thumbnail: thtr-projects/images/zipper3.jpg
 projectUrl: https://www.sampleorganization.org
-testimonial:
-  name: John Doe
-  role: CEO @Example
-  image: sample-project/john.jpg
-  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+
 ---
 
 This would be a description of your sample project. I'm trying very hard still.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
