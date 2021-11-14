@@ -12,3 +12,6 @@ projectUrl: https://www.sampleorganization.org
 ---
 
 Here are images that I have created using programs from the Adobe Creative Suite, including Photoshop, Illustrator, and InDesign :computer: :computer_mouse:
+
+{{< figure src="/graphic-design/images/tea.jpg"
+caption="Design made for sale on Redbubble" >}}
