@@ -12,3 +12,9 @@ projectUrl: https://www.sampleorganization.org
 ---
 
 Click any of the links below to see articles I've written for "The Campus" newspaper!
+
+## "Monsters at Work" and post-grad anxieties
+ - https://alleghenycampus.com/20434/opinion/monsters-at-work-and-post-grad-anxieties/
+
+## Marvel Studios' 'Loki': an analysis of what it means to be free
+  - https://alleghenycampus.com/20164/opinion/marvel-studios-loki-an-analysis-of-what-it-means-to-be-free/
