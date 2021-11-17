@@ -11,7 +11,7 @@ projectUrl: https://www.sampleorganization.org
 
 ---
 
-Click any of the links below to see articles I've written for "The Campus" newspaper, including stories for opinion, news, and features!
+Click any of the links below to see articles I've written for "The Campus" newspaper, including stories for opinion, news, and features! :newspaper:
 
 ## "Monsters at Work" and post-grad anxieties
   - https://alleghenycampus.com/20434/opinion/monsters-at-work-and-post-grad-anxieties/
