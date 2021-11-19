@@ -11,4 +11,4 @@ projectUrl: https://www.sampleorganization.org
 
 ---
 
-Click any image below to see more information about the project
+Click any image below to see projects I've worked on in theatre!
