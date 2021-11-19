@@ -13,17 +13,17 @@ projectUrl: https://www.sampleorganization.org
 
 Click any of the links below to see articles I've written for "The Campus" newspaper, including stories for opinion, news, and features! :newspaper: :notebook_with_decorative_cover:
 
-### [Monsters at Work" and post-grad anxieties](https://alleghenycampus.com/20434/opinion/monsters-at-work-and-post-grad-anxieties/)
-  - words
+### ["Monsters at Work" and post-grad anxieties](https://alleghenycampus.com/20434/opinion/monsters-at-work-and-post-grad-anxieties/)
+  - Opinion
 
-### Marvel Studios' 'Loki': an analysis of what it means to be free
-  - https://alleghenycampus.com/20164/opinion/marvel-studios-loki-an-analysis-of-what-it-means-to-be-free/
+### [Marvel Studios' 'Loki': an analysis of what it means to be free](https://alleghenycampus.com/20164/opinion/marvel-studios-loki-an-analysis-of-what-it-means-to-be-free/)
+  - Opinion
 
-### Beehives added to Robertson
-  - https://alleghenycampus.com/19978/news/beehives-added-to-robertson/
+### [Beehives added to Robertson](https://alleghenycampus.com/19978/news/beehives-added-to-robertson/)
+  - News
 
-### “The American Dream” is dead, and barely existed to begin with
-  - https://alleghenycampus.com/19741/opinion/the-american-dream-is-dead-and-barely-existed-to-begin-with/
+### [“The American Dream” is dead, and barely existed to begin with](https://alleghenycampus.com/19741/opinion/the-american-dream-is-dead-and-barely-existed-to-begin-with/)
+  - Opinion
 
-### Professor Mari Christmas wins Rona Jaffe Foundation Writers’ Award
-  - https://alleghenycampus.com/19130/features/professor-mari-christmas-wins-rona-jaffe-foundation-writers-award/
+### [Professor Mari Christmas wins Rona Jaffe Foundation Writers’ Award](https://alleghenycampus.com/19130/features/professor-mari-christmas-wins-rona-jaffe-foundation-writers-award/)
+  - Features
