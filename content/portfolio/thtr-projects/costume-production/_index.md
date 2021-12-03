@@ -13,5 +13,5 @@ projectUrl: https://www.sampleorganization.org
 
 This would be a description of your sample project. I'm trying very hard.
 
-{{< figure src="/portfolio/thtr-projects/images/leopard1.jpg" >}}
+{{< figure src="/portfolio/thtr-projects/images/leopard1.jpg" caption="" >}}
 {{< figure src="/portfolio/thtr-projects/images/leopard2.jpg" caption="Dress constructed by altering an existing pattern to be the shape needed for the garment" >}}
