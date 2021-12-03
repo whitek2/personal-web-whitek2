@@ -11,11 +11,8 @@ projectUrl: https://www.sampleorganization.org
 
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
+Process photos of current WIPs for our upcoming production of *She Kills Monsters*
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{{< figure src="/portfolio/thtr-projects/images/wireframe.jpg" caption="Base for skull of a kobold puppet head made out of wire and gaff tape; made to specifications of designer" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/papiermache.jpg" caption="Lower jaw constructed with wire, then covered with papier mache; made with wallpaper paste for extra strength" >}}
