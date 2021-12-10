@@ -6,7 +6,7 @@ jobDate: 2019-2021
 work: [design, Adobe Creative Suite]
 techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: graphic-design/images/mystico.jpg
+thumbnail: graphic-design/images/mystico.png
 projectUrl: https://www.sampleorganization.org
 
 ---
