@@ -12,3 +12,11 @@ projectUrl: https://www.sampleorganization.org
 ---
 
 This would be a description of your sample project. I'm trying very hard still.
+
+{{< figure src="/portfolio/thtr-projects/images/blathers 1.jpg" caption="Fall 2021: Jacket and skirt altered, thrifted pieces taken out to fit for a Halloween costume of Blathers from *Animal Crossing*; Designed by myself" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/skirt.jpg" caption="Fall 2021: Skirt purchased on clearance in a 5X, taken in to fit a 2X; Garment from *Hot Topic*, outfit styled by myself" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/zipper1.jpg" caption="Fall 2021: Jacket pulled from stock with a broken zipper; removed zipper and replaced with a new one" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/zipper3.jpg" caption="Fall 2021: Replacement zipper is fully functional and seamlessly sewn on; replacement process included pulling zipper teeth and creating a new top for the zipper with thread" >}}
