@@ -11,7 +11,7 @@ projectUrl: https://www.sampleorganization.org
 
 ---
 
-Scroll through to see pictures of costume pieces and projects I have created
+Scroll through to see pictures of some costume pieces and projects I have completed! :sewing_needle: :thread: :dress:
 
 {{< figure src="/portfolio/thtr-projects/images/leopard1.jpg" caption="Fall 2021: Dress constructed by altering an existing pattern to be the shape needed for the garment; Design by Miriam Patterson" >}}
 
