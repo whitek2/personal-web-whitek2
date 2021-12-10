@@ -16,7 +16,7 @@ Here are images that I have created using programs from the Adobe Creative Suite
 {{< figure src="/portfolio/graphic-design/images/tea.jpg"
 caption="Design made for sale on Redbubble" >}}
 
-{{< figure src="/portfolio/graphic-design/images/turkeys.jpg"
+{{< figure src="/portfolio/graphic-design/images/turkeys.png"
 caption="Design made for sale on Redbubble" >}}
 
 {{< figure src="/portfolio/graphic-design/images/coucou.jpg"
