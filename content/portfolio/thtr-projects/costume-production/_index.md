@@ -27,4 +27,4 @@ This would be a description of your sample project. I'm trying very hard.
 
 {{< figure src="/portfolio/thtr-projects/images/zipprodt rendering.jpg" caption="Rendering given to recreate for a class assignment; Design by Patricia Zipprodt" >}}
 
-{{< figure src="/portfolio/thtr-projects/images/jacket 2.jpg" caption="1/3 scale dress created from analyzing a design rendering; Design by Patricia Zipprodt" >}}
+{{< figure src="/portfolio/thtr-projects/images/zipprodt mini dress.jpg" caption="1/3 scale dress created from analyzing a design rendering; Design by Patricia Zipprodt" >}}
