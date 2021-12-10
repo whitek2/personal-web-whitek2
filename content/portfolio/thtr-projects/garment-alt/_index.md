@@ -11,7 +11,7 @@ projectUrl: https://www.sampleorganization.org
 
 ---
 
-This would be a description of your sample project. I'm trying very hard still.
+Scroll through to see pictures of garments I have altered and/or repaired, for theatre and for personal use! :thread: :sewing_needle:
 
 {{< figure src="/portfolio/thtr-projects/images/blathers 1.jpg" caption="Fall 2021: Jacket and skirt altered, thrifted pieces taken out to fit for a Halloween costume of Blathers from *Animal Crossing*; Designed by myself" >}}
 
