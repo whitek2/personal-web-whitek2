@@ -45,12 +45,11 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
+  twitter = "https://twitter.com/kaleighjwhite"
+  linkedin = "https://www.linkedin.com/in/kaleigh-w-523969112/"
   facebook = "https://www.facebook.com/kaleighjwhite/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
+  youtube = "https://www.youtube.com/channel/UCjtTHLuunvbpBeOWa2WtSXA"
+  instagram = "https://www.instagram.com/kaleighjwhite/"
 
 [params.contact]
   email = ""
