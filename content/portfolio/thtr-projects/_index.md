@@ -6,7 +6,7 @@ jobDate: 2019-2021
 work: [theatre, costuming]
 techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: thtr-projects/images/thumb.jpg
+thumbnail: thtr-projects/images/thumb2.jpg
 projectUrl: https://www.sampleorganization.org
 
 ---
