@@ -13,9 +13,6 @@ pygmentsCodeFences=true
   main = "Hi, I'm Kaleigh! :wave:"
   sub = "I'm a college senior studying theatre and marketing informatics"
 
-[params.main]
-  latestPublishHeader = "My Latest Project"
-
 [taxonomies]
   design = "designs"
   tech = "techs"
@@ -29,7 +26,7 @@ pygmentsCodeFences=true
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
-  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  gopher = "/images/goose.png" # checkout https://gopherize.me/
   h1 = 'Aw, beans.'
   p = "It seems that this page doesn't exist."
 
