@@ -15,16 +15,18 @@ Scroll through to see pictures of some costume pieces and projects I have comple
 
 {{< figure src="/portfolio/thtr-projects/images/leopard1.jpg" caption="Fall 2021: Dress constructed by altering an existing pattern to be the shape needed for the garment; Design by Miriam Patterson" >}}
 
-{{< figure src="/portfolio/thtr-projects/images/leopard 2.jpg" caption="Fall 2021: Dress constructed by altering an existing pattern to be the shape needed for the garment; near-finished garment, pre-hem; Design by Miriam Patterson" >}}
+{{< figure src="/portfolio/thtr-projects/images/leopard2.jpg" caption="Fall 2021: Dress constructed by altering an existing pattern to be the shape needed for the garment; near-finished garment, pre-hem; Design by Miriam Patterson" >}}
 
-{{< figure src="/portfolio/thtr-projects/images/red dress 1.jpg" caption="Fall 2019Pattern drafted using the actor's measurements; Design by Miriam Patterson" >}}
+{{< figure src="/portfolio/thtr-projects/images/bodice.jpg" caption="Fall 2021: Bodice created from pattern; skirt and rest of dress will be created by altering the pattern" >}}
 
-{{< figure src="/portfolio/thtr-projects/images/jacket 1.jpg" caption="Spring 2021Process Photo: Jacket created by altering an existing pattern to fit the design rendering; Design by Miriam Patterson" >}}
+{{< figure src="/portfolio/thtr-projects/images/jacket 1.jpg" caption="Spring 2021: Process Photo: Jacket created by altering an existing pattern to fit the design rendering; Design by Miriam Patterson" >}}
 
-{{< figure src="/portfolio/thtr-projects/images/jacket 2.jpg" caption="Spring 2021Process Photo: Jacket created by altering an existing pattern; near-finished garment; Design by Miriam Patterson" >}}
+{{< figure src="/portfolio/thtr-projects/images/jacket 2.jpg" caption="Spring 2021: Process Photo: Jacket created by altering an existing pattern; near-finished garment; Design by Miriam Patterson" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/jacketfinal.jpg" caption="Spring 2021: Finished garment, shown here being worn in promotional photos; Design by Miriam Patterson" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/zipprodt rendering.jpg" caption="Winter 2020: Rendering given to recreate for a class assignment; Design by Patricia Zipprodt" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/zipprodt mini dress.jpg" caption="Winter 2020: 1/3 scale dress created from analyzing a design rendering; Design by Patricia Zipprodt" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/red dress 1.jpg" caption="Fall 2019: Pattern drafted using the actor's measurements; Design by Miriam Patterson" >}}
