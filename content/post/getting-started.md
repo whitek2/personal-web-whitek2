@@ -9,4 +9,4 @@ Here's the latest version of my resume! :page_facing_up:
 
 <embed src="/post/images/kwhite resume.pdf" type="application/pdf">
 
-[kwhite resume](posts/images/kwhite resume)
+### [kwhite resume](posts/images/kwhite resume)
