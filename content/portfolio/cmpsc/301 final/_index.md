@@ -1,5 +1,5 @@
 ---
-title: DATA ANALYTICS: DRUG-RELATED DEATHS IN THE US
+title: DATA ANALYTICS FINAL
 description: Costume pieces I've constructed
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2019-2021
