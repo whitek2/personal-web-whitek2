@@ -13,6 +13,12 @@ projectUrl: https://www.sampleorganization.org
 
 Scroll through to see pictures of some costume pieces and projects I have completed! :thread: :dress:
 
+{{< figure src="/portfolio/thtr-projects/images/headpiece 2.jpg" caption="Spring 2022: Myself modeling the finished product. The headpiece fits snugly onto my head and does not wobble around and all of the adornments have been securely applied. Original design by me" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/headpiece 1.jpg" caption="Spring 2022: Custom headpiece created for class using a homemade skullcap. Skullcap was covered with a base of fabric before adding feathers, flowers, and butterflies that I designed myself. Original design by me" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/eye 1.jpg" caption="Spring 2022: Prosthetic created for class using monster clay, alginate, and gelatin. Painted to match my skin and eye color. Original design by me" >}}
+
 {{< figure src="/portfolio/thtr-projects/images/blackdress4.jpg" caption="Spring 2022: Close-up of the bottom of finished dress; lace was carefully measured and cut to ensure that the scalloped edge would hang over the dress's hem. Design by alex martin" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/blackdress3.jpg" caption="Spring 2022: Close-up of the bodice of finished dress; dress constructed by altering an existing pattern to fit the designer's rendering. Design by alex martin" >}}
