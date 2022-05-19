@@ -11,7 +11,9 @@ projectUrl: https://www.sampleorganization.org
 
 ---
 
-Process photos of current WIPs for our upcoming production of *She Kills Monsters* :dragon: :dagger: 
+Process photos of puppet creation for a production of *She Kills Monsters* :dragon: :dagger:
+
+{{< figure src="/portfolio/thtr-projects/images/bugbears 1.jpg" caption="Bugbear: Faces painted onto the silk with acrylic paint; each face was made unique" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/wireframe.jpg" caption="Kobold: Base for skull of a kobold puppet head made out of wire and gaff tape; made to specifications of designer" >}}
 
