@@ -19,8 +19,14 @@ Click any of the links below to see articles I've written for "The Campus" newsp
 ### [Marvel Studios' 'Loki': an analysis of what it means to be free](https://alleghenycampus.com/20164/opinion/marvel-studios-loki-an-analysis-of-what-it-means-to-be-free/)
   - Opinion
 
+### [Is Batman a furry?](https://alleghenycampus.com/21219/opinion/is-batman-a-furry/)
+  - Opinion
+
 ### [Beehives added to Robertson](https://alleghenycampus.com/19978/news/beehives-added-to-robertson/)
   - News
+
+### [Winter is the worst](https://alleghenycampus.com/21107/opinion/winter-is-the-worst/)
+  - Opinion
 
 ### [“The American Dream” is dead, and barely existed to begin with](https://alleghenycampus.com/19741/opinion/the-american-dream-is-dead-and-barely-existed-to-begin-with/)
   - Opinion
