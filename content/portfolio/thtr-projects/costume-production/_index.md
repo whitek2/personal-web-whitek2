@@ -13,11 +13,17 @@ projectUrl: https://www.sampleorganization.org
 
 Scroll through to see pictures of some costume pieces and projects I have completed! :thread: :dress:
 
+{{< figure src="/portfolio/thtr-projects/images/blackdress4.jpg" caption="Spring 2022: Close-up of the bottom of finished dress; lace was carefully measured and cut to ensure that the scalloped edge would hang over the dress's hem. Design by alex martin" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/blackdress3.jpg" caption="Spring 2022: Close-up of the bodice of finished dress; dress constructed by altering an existing pattern to fit the designer's rendering. Design by alex martin" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/blackdress5.jpg" caption="Spring 2022: Dress constructed by altering an existing pattern to fit the designer's rendering; finished dress displayed here on a mannequin. Design by alex martin" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/blackdress1.jpg" caption="Spring 2022: Dress constructed by altering an existing pattern to fit the designer's rendering; mock-up shown here on a mannequin was then fitted on the actor and partially disassembled to add a lace overlay per the designer's request. Design by alex martin" >}}
+
 {{< figure src="/portfolio/thtr-projects/images/leopard1.jpg" caption="Fall 2021: Dress constructed by altering an existing pattern to be the shape needed for the garment; Design by Miriam Patterson" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/leopard2.jpg" caption="Fall 2021: Dress constructed by altering an existing pattern to be the shape needed for the garment; near-finished garment, pre-hem; Design by Miriam Patterson" >}}
-
-{{< figure src="/portfolio/thtr-projects/images/bodice.jpg" caption="Fall 2021: Bodice created from pattern; skirt and rest of dress will be created by altering the pattern" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/jacket 1.jpg" caption="Spring 2021: Process Photo: Jacket created by altering an existing pattern to fit the design rendering; Design by Miriam Patterson" >}}
 
