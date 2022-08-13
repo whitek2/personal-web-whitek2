@@ -52,7 +52,7 @@ pygmentsCodeFences=true
   instagram = "https://www.instagram.com/kaleighjwhite/"
 
 [params.contact]
-  email = ""
+  email = "kaleighjeanwhite@gmail.com"
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
