@@ -53,7 +53,7 @@ pygmentsCodeFences=true
 
 [params.contact]
   email = "kaleighjeanwhite@gmail.com"
-  text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
+  text= "Email me!" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
@@ -63,7 +63,7 @@ pygmentsCodeFences=true
   name = "About"
   title = "About section"
   url = "/about/"
-  weight = -120
+  weight = -150
 
 [[menu.main]]
   identifier = "portfolio"
