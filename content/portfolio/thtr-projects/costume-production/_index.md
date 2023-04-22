@@ -13,7 +13,9 @@ projectUrl: https://www.sampleorganization.org
 
 Scroll through to see pictures of some costume pieces and projects I have completed! :thread: :dress:
 
-{{< figure src="/portfolio/thtr-projects/images/headpiece 2.jpg" caption="Spring 2022: Myself modeling the finished product. The headpiece fits snugly onto my head and does not wobble around and all of the adornments have been securely applied. Original design by me" >}}
+{{< figure src="/portfolio/thtr-projects/images/headpiece 3.jpg" caption="Spring 2022: Myself modeling the finished product. The headpiece fits snugly onto my head and does not wobble around and all of the adornments have been securely applied. Original design by me" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/headpiece 2.jpg" caption="Spring 2022: Custom headpiece created for class using a homemade skullcap. Skullcap was covered with a base of fabric before adding feathers, flowers, and butterflies that I designed myself. Original design by me" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/headpiece 1.jpg" caption="Spring 2022: Custom headpiece created for class using a homemade skullcap. Skullcap was covered with a base of fabric before adding feathers, flowers, and butterflies that I designed myself. Original design by me" >}}
 
