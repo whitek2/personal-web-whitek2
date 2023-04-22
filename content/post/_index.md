@@ -3,4 +3,4 @@ title: POST
 description: 'Posts Section'
 ---
 
-Click below to see my resume! :page_facing_up:
+Wanna know some specifics? Click below to see my resume, and more! :page_facing_up:
