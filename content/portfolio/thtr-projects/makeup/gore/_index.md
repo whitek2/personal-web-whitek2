@@ -36,7 +36,7 @@ CONTENT WARNING: BLOOD, IMPLIED VIOLENCE
 
 {{< figure src="/portfolio/thtr-projects/images/couple w gore.jpg" caption="Gore/cuts done with liquid latex and thick blood, shading done with bruise wheel" >}}
 
-{{< figure src="/portfolio/thtr-projects/images/st lucians cross.jpg" caption="Gore/cuts done with liquid latex and thick blood for "church and demons" themed house, shading done with bruise wheel" >}}
+{{< figure src="/portfolio/thtr-projects/images/st lucians cross.jpg" caption="Gore/cuts done with liquid latex and thick blood for church-and-demons themed house, shading done with bruise wheel" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/more gore.jpg" caption="Gore/cuts done with liquid latex and thick blood, shading done with bruise wheel" >}}
 
