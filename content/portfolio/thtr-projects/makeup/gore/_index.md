@@ -24,7 +24,7 @@ CONTENT WARNING: BLOOD, IMPLIED VIOLENCE
 
 {{< figure src="/portfolio/thtr-projects/images/girl w claw marks.jpg" caption="Large claw marks on face done with liquid latex and thick blood, shading done with bruise wheel; client insisted on having a stitched scar added despite my insistence it didn't fit the vibe" >}}
 
-{{< figure src="/portfolio/thtr-projects/images/poisoned alice.jpg" caption="'Poisoned Alice' look with UV reactive makeup for an "Alice Through The Looking Glass"-themed house with black lights" >}}
+{{< figure src="/portfolio/thtr-projects/images/poisoned alice.jpg" caption="'Poisoned Alice' look with UV reactive makeup for an 'Alice Through The Looking Glass'-themed house with black lights" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/hearts girl.jpg" caption="Look with UV reactive makeup for an "Alice Through The Looking Glass"-themed house with black lights" >}}
 
