@@ -1,6 +1,6 @@
 ---
 title: PRODUCTION
-description: Costume pieces I've constructed
+description: Costume pieces constructed by Kaleigh White
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2019-2021
 work: [costume production, cutting, stitching, draping, drafting]

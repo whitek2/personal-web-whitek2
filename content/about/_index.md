@@ -5,7 +5,7 @@ images: ["/images/sample.jpg"]
 ---
 
 
-My name is Kaleigh White. I am 23 years old and I am from Linesville, Pennsylvania. I graduated high school in the top 20% of my class in 2018, after which I matriculated at Allegheny College. My senior year of high school, I took classes at Allegheny in the morning, putting me a little bit ahead of my peers in terms of credits.
+My name is Kaleigh White. I am 24 years old and I am from Linesville, Pennsylvania. I graduated high school in the top 20% of my class in 2018, after which I matriculated at Allegheny College. My senior year of high school, I took classes at Allegheny in the morning, putting me a little bit ahead of my peers in terms of credits.
 
 
 When I came to Allegheny, I was bound and determined that I was going to study theatre and go into theatre performance professionally. After getting here, I applied for a work study position in the costume shop, working under the shop supervisor and resident costume designer. I got the job, and I haven't looked back. While I do love performing, I also came to realize that I love *creating* theatre, too. As a costume shop technician, I've developed skills in cutting, stitching, and draping, as well as pattern drafting and alterations among other things. I am very grateful to have gotten this position, and I don't know what I'd be doing without it.

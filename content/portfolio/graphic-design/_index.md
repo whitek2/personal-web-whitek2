@@ -1,6 +1,6 @@
 ---
 title: GRAPHIC DESIGN
-description: Here are some things I have designed
+description: Various graphics designed by Kaleigh White
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2019-2021
 work: [design, Adobe Creative Suite]

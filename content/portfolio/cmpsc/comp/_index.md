@@ -1,6 +1,6 @@
 ---
 title: SENIOR COMPREHENSIVE PROJECT
-description: comp comp
+description: Coding done for my senior comprehensive project
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2020-2022
 work: [computer science, coding, data analytics, research]

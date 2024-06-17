@@ -1,6 +1,6 @@
 ---
 title: CODE-BASED PROJECTS
-description: cmpsc landing page
+description: CMPSC Landing Page
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2019-2021
 work: [R Studio, Java]

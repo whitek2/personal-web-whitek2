@@ -1,6 +1,6 @@
 ---
 title: ALTERATION & REPAIRS
-description: Costume pieces I've altered
+description: Costume pieces altered by Kaleigh White
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2019-2021
 work: [costume production, cutting, stitching, draping, drafting]
