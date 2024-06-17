@@ -12,7 +12,7 @@ projectUrl: https://www.sampleorganization.org
 ---
 
 These are some of the makeup looks I did for Ghost Lake, a haunt in Conneaut Lake, PA! :ghost: :skull: :red_circle:
-*Products used were minimal and simple, completed with a small budget.
+Note: Products used were minimal and simple, completed with a small budget.
 
 CONTENT WARNING: BLOOD, IMPLIED VIOLENCE
 
