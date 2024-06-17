@@ -20,7 +20,7 @@ CONTENT WARNING: BLOOD, IMPLIED VIOLENCE
 
 {{< figure src="/portfolio/thtr-projects/images/girl w gore front.jpg" caption="Gore/cuts done with liquid latex and thick blood, shading done with bruise wheel" >}}
 
-{{< figure src="/portfolio/thtr-projects/images/boy w goret.jpg" caption="Gash and nose and cuts done with liquid latex and thick blood, shading done with bruise wheel" >}}
+{{< figure src="/portfolio/thtr-projects/images/boy w gore.jpg" caption="Gash and nose and cuts done with liquid latex and thick blood, shading done with bruise wheel" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/girl w claw marks.jpg" caption="Large claw marks on face done with liquid latex and thick blood, shading done with bruise wheel; client insisted on having a stitched scar added despite my insistence it didn't fit the vibe" >}}
 
