@@ -6,7 +6,7 @@ jobDate: 2019
 work: [design, architecture]
 techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: thtr-projects/images/girl w gore side.jpg
+thumbnail: thtr-projects/images/makeup/gore/girl w gore side.jpg
 projectUrl: https://www.sampleorganization.org
 
 ---
