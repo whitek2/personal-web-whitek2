@@ -6,7 +6,7 @@ jobDate: 2019-2021
 work: [costume production, cutting, stitching, draping, drafting]
 techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: thtr-projects/images/zipper3.jpg
+thumbnail: thtr-projects/images/garment alt/zipper3.jpg
 projectUrl: https://www.sampleorganization.org
 
 ---

@@ -6,7 +6,7 @@ jobDate: 2019-2021
 work: [costume production, cutting, stitching, draping, drafting]
 techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: thtr-projects/images/leopard1.2.jpg
+thumbnail: thtr-projects/images/costume production/leopard1.2.jpg
 projectUrl: https://www.sampleorganization.org
 
 ---
