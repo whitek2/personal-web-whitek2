@@ -13,6 +13,12 @@ projectUrl: https://www.sampleorganization.org
 
 Scroll through to see pictures of some costume pieces and projects I have completed! :thread: :dress:
 
+{{< figure src="/portfolio/thtr-projects/images/costume production/butterfly clip back.jpg" caption="Spring 2024: Hair clip I made for a drag event. Used cardboard, wire and hot glue to attach flowers and a hair clip. Original design by me" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/costume production/butterfly clip front.jpg" caption="Spring 2024: Hair clip I made for a drag event. Used cardboard, wire and hot glue to attach flowers and a hair clip. Original design by me" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/costume production/butterfly clip full fantasy.jpg" caption="Spring 2024: Hair clip I made for a drag event. Used cardboard, wire and hot glue to attach flowers and a hair clip. Modeled by me after the event. Original design by me" >}}
+
 {{< figure src="/portfolio/thtr-projects/images/costume production/headpiece 3.jpg" caption="Spring 2022: Myself modeling the finished product. The headpiece fits snugly onto my head and does not wobble around and all of the adornments have been securely applied. Original design by me" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/costume production/headpiece 2.jpg" caption="Spring 2022: Custom headpiece created for class using a homemade skullcap. Skullcap was covered with a base of fabric before adding feathers, flowers, and butterflies that I designed myself. Original design by me" >}}
@@ -28,6 +34,16 @@ Scroll through to see pictures of some costume pieces and projects I have comple
 {{< figure src="/portfolio/thtr-projects/images/costume production/blackdress5.jpg" caption="Spring 2022: Dress constructed by altering an existing pattern to fit the designer's rendering; finished dress displayed here on a mannequin. Design by alex martin" >}}
 
 {{< figure src="/portfolio/thtr-projects/images/costume production/blackdress1.jpg" caption="Spring 2022: Dress constructed by altering an existing pattern to fit the designer's rendering; mock-up shown here on a mannequin was then fitted on the actor and partially disassembled to add a lace overlay per the designer's request. Design by alex martin" >}}
+
+{{< figure src="/portfolio/thtr-projects/images/costume production/latex hand wet.jpg" caption="Winter 2022: Constructed a fake arm using liquid latex. Began by powdering and painting my arm with liquid latex colored with acrylic paint." >}}
+
+{{< figure src="/portfolio/thtr-projects/images/costume production/latex hand coming off.jpg" caption="Winter 2022: Constructed a fake arm using liquid latex. Took it off gently using baby oil to loosen the edges." >}}
+
+{{< figure src="/portfolio/thtr-projects/images/costume production/latex hand off.jpg" caption="Winter 2022: Constructed a fake arm using liquid latex. This is the arm immediately after removing." >}}
+
+{{< figure src="/portfolio/thtr-projects/images/costume production/latex hand finished 2.jpg" caption="Winter 2022: Constructed a fake arm using liquid latex. The finished product after being stuffed." >}}
+
+{{< figure src="/portfolio/thtr-projects/images/costume production/latex hand finished 1.jpg" caption="Winter 2022: Constructed a fake arm using liquid latex. The finished product after being stuffed. Complete with posable fingers made with popsicle sticks and wire." >}}
 
 {{< figure src="/portfolio/thtr-projects/images/costume production/leopard1.jpg" caption="Fall 2021: Dress constructed by altering an existing pattern to be the shape needed for the garment; Design by Miriam Patterson" >}}
 
