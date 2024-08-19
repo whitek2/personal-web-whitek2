@@ -6,7 +6,7 @@ jobDate: 2023
 work: [stage makeup, lolita, j-fashion]
 techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: thtr-projects/images/makeup/sfx/tekko cover photo.jpg
+thumbnail: thtr-projects/images/makeup/tekko/tekko cover photo.jpg
 projectUrl: https://www.sampleorganization.org
 
 ---
