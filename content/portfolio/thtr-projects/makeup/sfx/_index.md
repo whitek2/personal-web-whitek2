@@ -3,7 +3,7 @@ title: SFX MAKEUP
 description: SFX makeup samples by Kaleigh White
 date: "2019-05-02T19:47:09+02:00"
 jobDate: 2023
-work: [design, architecture]
+work: [stage makeup, sfx makeup]
 techs: [javascript, D3]
 designs: [Photoshop]
 thumbnail: thtr-projects/images/makeup/sfx/doll makeup 1 game.jpg
