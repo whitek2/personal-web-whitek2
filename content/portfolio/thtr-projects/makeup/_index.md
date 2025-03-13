@@ -11,4 +11,4 @@ projectUrl: https://www.sampleorganization.org
 
 ---
 
-Check out some photos of drag, SFX, and gore makeup I've done! :lipstick: :art:
+Check out some photos of drag, SFX, glam, and gore makeup I've done! :lipstick: :art:
